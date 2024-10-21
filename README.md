@@ -1,1 +1,3 @@
-Hello Friend!
+💻 Mega7 | Security Researcher & Bug Bounty Hunter 🐞
+
+I'm coming ...
